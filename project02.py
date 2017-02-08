@@ -4,7 +4,9 @@
 Created on Tue Feb  7 21:00:01 2017
 
 @author: haniehkashani
+@author: Marzieh Rokooei
 """
+
 
 import pandas as pd
 import numpy as np
